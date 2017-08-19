@@ -1,4 +1,5 @@
 import java.sql.*;
+import java.util.Arrays;
 
 public class DBC {
     private  boolean isConnected;
@@ -71,6 +72,7 @@ public class DBC {
     }
     public void removeShip(int ShipID) throws SQLException {
         PreparedStatement ps=con.prepareStatement("DELETE FROM ships WHERE shipID= ?");
+        System.out.println(ShipID);
         ps.setInt(1,ShipID);
         ps.execute();
         /*Statement stmt = con.createStatement();
@@ -80,6 +82,7 @@ public class DBC {
         return IDList.split(",");
     }
     public String[] getShipsName(int invID) throws SQLException {
+        IDList="";
         Statement stmt = con.createStatement();
         ResultSet rt = stmt.executeQuery("SELECT * FROM ships WHERE invID="+invID );
         String names="";
@@ -87,8 +90,6 @@ public class DBC {
             names+=rt.getString("ship")+",";
             IDList+=rt.getInt("shipID")+",";
         }
-
-
         return names.split(",");
 
     }

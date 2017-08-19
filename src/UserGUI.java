@@ -38,6 +38,7 @@ public class UserGUI extends JFrame {
         System.out.println(Integer.parseInt(conn.getIDList()[shipSelect]));
         conn.removeShip(Integer.parseInt(conn.getIDList()[shipSelect]));
         names.remove(shipSelect);
+        setJlist();
     }
 
     private void initComponents() throws SQLException {
