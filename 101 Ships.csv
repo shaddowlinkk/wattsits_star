@@ -1,0 +1,102 @@
+Ship Name,Flight Ready,Class,Focus,Max Crew,Cargo Capacity,Fixed Mounts,Gimbal Mounts,Pylon Mounts,Unmanned Turret,Manned Turret,Capital Pylon,Shield,Additional Equipment
+300I,Yes,Personal transport,Touring,1,4,2xS2,1xS2,2xS3,N/A,N/A,N/A,1xS3,N/A
+315P,No,Personal transport,Exploration,1,6,2xS2,1xS2,2xS3,N/A,N/A,N/A,1xS3,Explorer Jump Engine (S1) | Jump Scanner (S1)
+325A,Yes,Fighter,Interdiction,1,4,2xS2,1xS2,2xS3,N/A,N/A,N/A,1xS3,Custom Weapon Equipment (S1)
+350R,Yes,Personal transport,Racing,1,0,2xS2,1xS2,2xS3,N/A,N/A,N/A,1xS3,N/A
+85X,Yes,Personal transport,Snub fighter,2,0,2xS1,N/A,N/A,1xS2,N/A,N/A,TBD,N/A
+890 JUMP,No,Personal transport,Luxury Touring,5,360,N/A,N/A,N/A,3xS4,2xS5,TBD,1xS6,Excursion Jump Engine (TBD) | 85X Runabout (TBD)
+AURORA CL,Yes,Cargo,Merchantile,1,23,2xS2,N/A,1xS2,N/A,N/A,N/A,1xS2,AT Jump Scanner (S1) | Big Box (model A) (S1)
+AURORA ES,Yes,Personal transport,Starter/Exploration,1,13,2xS2,N/A,1xS2,N/A,N/A,N/A,1xS2,Mini (S1)
+AURORA LN,Yes,Fighter,Militia/Patrol,1,13,2xS2,2xS2,1xS2,N/A,N/A,N/A,1xS3,Mini (S1)
+AURORA LX,Yes,Personal transport,Exploration/Light Mercantile,1,13,2xS2,N/A,1xS2,N/A,N/A,N/A,1xS2,Mini (S1) | Oracle Jump Engine (S1)
+AURORA MR,Yes,Personal transport,Interdiction,1,13,2xS1,N/A,1xS2,N/A,N/A,N/A,1xS2,Mini (S1)
+AVENGER STALKER,Yes,Fighter,Interceptor/Bounty Hunting,1,4,2xS2,1xS3,2xS3,N/A,N/A,N/A,1xS3,6x Prisoner Transport Pods (S1)
+AVENGER TITAN,Yes,Cargo,Light Cargo Hauler,1,4,,,,N/A,N/A,N/A,1xS3,N/A
+AVENGER TITAN RENEGADE,Yes,Cargo,N/A,1,4,2xS1,1xS3,2xS2,N/A,N/A,N/A,1xS3,N/A
+AVENGER WARLOCK,Yes,Fighter,Emp Warfare,1,4,,,,N/A,N/A,N/A,1xS3,N/A
+BUCCANEER,Yes,Fighter,Interdiction,1,0,2xS1,2xS3,2xS1,1xS4,N/A,N/A,3xS1,N/A
+CARRACK,No,Personal transport,Exploration,5,1058,N/A,N/A,N/A,2xS4,2XS4,N/A,1xS7,Rover I Scout Ship
+CATERPILLAR,Yes,Cargo,Transport,5,512,N/A,4xS4,TBD,TBD,N/A,N/A,1xS5,Mark III Tractor (S1)
+CATERPILLAR PIRATE EDITION,Yes,Cargo,N/A,5,512,N/A,4xS4,TBD,TBD,N/A,N/A,1xS5,Mark III Tractor (S1)
+CONSTELLATION ANDROMEDA,Yes,Versatile,Multi-Function,5,134,N/A,4xS4,4xS1 I 2xS2,N/A,2xS4,N/A,1xS6,Jump Engine (S1) I P-52 Merlin Close Range Fighter (S1)
+CONSTELLATION AQUILA,No,Personal transport,Exploration,4,134,N/A,4xS4,2xS2,N/A,1xS4,N/A,1xS6,Jump Engine (S1) | Ursa Rover | Expanded Fuel Tank (S1) | Long Range Scanner (S1) | 2x Jump point navigation sensors | P-52 Merlin close range fighter (S1)
+CONSTELLATION PHOENIX,No,Versatile,Luxury Touring,4,66,N/A,4xS4,4XS2,N/A,2xS4,Point Defense Battery,1xS6,Jump Engine (S1) I P- 72 Archimedes Close Range Fighter (S1) I Lynx Rover
+CONSTELLATION TAURUS,No,Personal transport,Transport,4,243,N/A,4xS4,2xS1,N/A,1xS4,N/A,1xS5,Jump Engine (S1)
+CRUCIBLE,No,Personal transport,Repair,4,300,N/A,N/A,N/A,1xS7 I 1xS6,N/A,N/A,2xTBD,N/A
+CUTLASS BLACK,Yes,Fighter,Militia/Patrol,3,33,2xS3,1xS3,2xS2,N/A,1xS1,N/A,1xS4,Secure Docking Collar (S1) | Suregrip Tractor Turret (S1)
+CUTLASS BLUE,No,Fighter,Police,3,33,2xS3,1xS3,2xS2,N/A,1xS1,N/A,1xS5,Secure Docking Collar (S1) | Suregrip Tractor Turret (S1)
+CUTLASS RED,No,Personal transport,Search & Rescue,4,33,2xS3,1xS3,N/A,N/A,N/A,N/A,1xS4,Secure Plus Docking Collar (S1) I Suregrip Tractor Turret (S1) I Long Range Scanner I AutoDoc Medical Facilities
+CYCLONE,No,Vehicle / Snub,N/A,2,1,N/A,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+CYCLONE-AA,No,Vehicle / Snub,SAM-CML,2,0,N/A,N/A,2xS1,N/A,N/A,N/A,TBD,N/A
+CYCLONE-RC,No,Vehicle / Snub,Racing,2,0,N/A,N/A,N/A,N/A,N/A,N/A,TBD,Cooler
+CYCLONE-RN,No,Vehicle / Snub,Radar/Stealth,2,0,N/A,N/A,N/A,N/A,N/A,N/A,TBD,Cooler | Upg. Radar
+CYCLONE-TR,No,Vehicle / Snub,N/A,3,0,N/A,N/A,N/A,N/A,TBD,N/A,TBD,Cooler
+DEFENDER,No,Versatile,N/A,2,0,2xS3,4xS3,N/A,N/A,N/A,N/A,TBD,N/A
+DRAGONFLY BLACK,No,Vehicle / Snub,Ultra-Light Space and Ground,2,1,2xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+DRAGONFLY YELLOWJACKET,No,Vehicle / Snub,Ultra-light Space and Ground,2,1,2xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+ECLIPSE,No,Bomber,Stealth Bomber,1,0,2xS2,N/A,3xS9,N/A,N/A,N/A,2xS1,N/A
+ENDEAVOR,No,Versatile,Research Platform,16,500,N/A,N/A,N/A,2xS3,N/A,N/A,3xS4,N/A
+ESPERIA GLAIVE,Yes,Fighter,Medium Fighter,1,0,2xS1 I 2xS2,N/A,2xTBD,N/A,N/A,N/A,TBD,N/A
+ESPERIA PROWLER,No,Versatile,Dropship,2,0,N/A,2xS5 | 1xS6,N/A,N/A,N/A,N/A,1xS3,N/A
+ESPERIA VANDUUL BLADE,No,Fighter,Light Fighter,1,0,1xS2,2xS1,2xS1,N/A,N/A,N/A,1xS1,N/A
+F7A HORNET,Yes,Fighter,Military Close Support,1,0,2xS2,2xS4,2xS1,1xS1 | 1xS2,N/A,N/A,1xS4,AllStop FR (S2)
+F7C HORNET,Yes,Fighter,Civilian Close Support,1,13,N/A,2xS4,2xS1,1xS1 | 1xS2,N/A,N/A,1xS4,Big Box (model H) (S1)
+F7C HORNET WILDFIRE,Yes,Fighter,Civilian Close Support,1,13,N/A,2xS4,4xS1,1xS2,N/A,N/A,1xS4,Big Box (model H) (S1)
+F7C-M SUPER HORNET,Yes,Fighter,Space Superiority,2,0,N/A,2xS4,2xS1,1xS1 I 1xS2,N/A,N/A,1xS4,Leaper Jump Engine
+F7C-R HORNET TRACKER,Yes,Fighter,Scout/Command and Control,1,0,N/A,2xS4,3xS1,N/A,N/A,N/A,1xS4,Long Look Radar
+F7C-S HORNET GHOST,Yes,Fighter,Infiltration,1,0,N/A,2xS4,2xS1,2xS1,N/A,N/A,1xS4,SheerSteel armor refit (S1)
+FREELANCER,Yes,Cargo,Mercantile,2,52,N/A,N/A,2xS2 | 2xS3,2xS2,1xS1,N/A,1xS5,Leaper Jump Engine (S1)
+FREELANCER DUR,No,Personal transport,Exploration,2,52,N/A,N/A,2xS3,2xS5,1xS1,N/A,1xS5,Leaper Pro (S1) | Long Range Scanner (S1) | Expanded Fuel Tank (S1)
+FREELANCER MAX,No,Cargo,Transport,2,123,N/A,N/A,2xS3,2xS4,1xS1,N/A,1xS4,Leaper Jump Engine (S1)
+FREELANCER MIS,No,Fighter,Militia,3,52,N/A,N/A,4xS2 | 2xS3,2xS5,N/A,N/A,1xS5,Leaper Jump Engine (S1) | Express Missile Replenishing system (S1)
+GENISIS,No,Personal transport,Passenger Transit,8,403,N/A,N/A,N/A,N/A,N/A,N/A,2xS7,N/A
+GLADIATOR,Yes,Bomber,Carrier-based Bomber,2,0,N/A,2xS2,2xS3 I 1xS5,N/A,1xS2,N/A,1xS3,N/A
+GLADIUS,Yes,Fighter,Short-range Patrol Fighter,1,0,2xS2,1xS1,2xS2,N/A,N/A,N/A,1xS3,N/A
+GLADIUS VALIANT,Yes,Fighter,Short-range Patrol Fighter,1,0,2xS2,1xS1,4xS3,N/A,N/A,N/A,1xS3,N/A
+HERALD,No,Personal transport,Info Runner,2,0,N/A,3xS1,N/A,N/A,N/A,N/A,1xS3 ,Leaper Jump Engine (S1)
+HULL A,No,Cargo,Cargo,1,48,N/A,2xS1,N/A,N/A,N/A,N/A,TBD,N/A
+HULL B,No,Cargo,Cargo,1,384,N/A,2xS2,N/A,N/A,N/A,N/A,TBD,N/A
+HULL C,No,Cargo,Cargo,3,4608,N/A,2xS1 | 6xS2,N/A,N/A,N/A,N/A,TBD,N/A
+HULL D,No,Cargo,Cargo,5,20736,N/A,2xS2 | 6xS3,N/A,N/A,N/A,N/A,TBD,N/A
+HULL E,No,Cargo,Cargo,5,98304,N/A,2xS3 | 6xS4,N/A,N/A,N/A,N/A,TBD,N/A
+HURRICANE,No,Fighter,Heavy Fighter,2,0,2xS4,N/A,2xS2,N/A,1xS3,N/A,2xS1,TARS Expedition I Default Jump Drive I AEGS Bracer x2 
+IDRIS-M,No,Capital,Frigate,10,860,N/A,U.ADS(1xS5),N/A,N/A,6xS5,1xS5,TBD,Marauder Jump Engine (S1)
+IDRIS-P,No,Capital,Frigate,10,1720,N/A,U.ADS(1xS5),N/A,N/A,7xS5,1xS5,TBD,Marauder Jump Engine (S1)
+JAVELIN-CLASS DESTROYER,No,Capital,Capital Ship,-1,5400,N/A,U.ADS(13xS5),N/A,N/A,2xS7,2xTBD,TBD,N/A
+KHARTU-AL,Yes,Fighter,Light Fighter,1,0,TBD,TBD,N/A,N/A,N/A,N/A,1xS4,TBD
+M50 INTERCEPTOR,Yes,Personal transport,Racing / Interception,1,0,1xS1 | 1xS2,N/A,2xS1,N/A,N/A,N/A,1xS2,N/A
+MERCHANTMAN,No,Cargo,Trade,8,5018,N/A,TBD,TBD,N/A,TBD,N/A,1xS7,TBD
+MPUV CARGO,Yes,Vehicle / Snub,Utility,1,2,N/A,N/A,N/A,N/A,N/A,N/A,1xS1,N/A
+MPUV PERSONNAL,Yes,Vehicle / Snub,Transport,1,0,N/A,N/A,N/A,N/A,N/A,N/A,1xS1,N/A
+MUSTANG ALPHA,Yes,Personal transport,Starter,1,10,2xS1,N/A,N/A,1xS1,N/A,N/A,1xS2,N/A
+MUSTANG BETA,Yes,Personal transport,Touring / Exploration,1,10,2xS1,N/A,N/A,1xS1,N/A,N/A,1xS2,Leaper Jump Engine (S1)
+MUSTANG DELTA,Yes,Personal transport,Fighter,1,10,2xS2,N/A,2xS1,1xS1,N/A,N/A,1xS2,Leaper Jump Engine (S1) | Cavalry Class
+MUSTANG GAMMA,Yes,Personal transport,Racing,1,10,2xS1,N/A,N/A,N/A,N/A,N/A,1xS2,N/A
+MUSTANG OMEGA,Yes,Personal transport,Racing,1,10,2xS1,N/A,N/A,N/A,N/A,N/A,1xS2,N/A
+NOX,No,Vehicle / Snub,Space and Ground Racing,1,0,1xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+NOX KUE,No,Vehicle / Snub,Space and Ground Racing,1,0,1xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+ORION,No,Cargo,Mining,6,14040,1xS6,N/A,N/A,4xS4 I 4xS1,N/A,N/A,1xS7,N/A
+P-52 MERLIN,Yes,Vehicle / Snub,Snub Fighter,1,0,2xS1 | 1xS2,N/A,N/A,N/A,N/A,N/A,1xS1,N/A
+P-72 ARCHIMEDES,No,Vehicle / Snub,Versatile,1,0,4xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+POLARIS,No,Capital ,Corvette,24,216,2xS3,N/A,3xS10,1xS5 I 1xS4 ,6xS4,N/A,TBD,N/A
+PROSPECTOR,No,Cargo,Prospecting & Mining,1,128,1xS1,N/A,N/A,N/A,N/A,N/A,TBD,N/A
+RAZOR,No,RSIShip_class_-en,Racing,1,0,1xS1 | 1xS2,N/A,N/A,N/A,N/A,N/A,1xS1,N/A
+RECLAIMER,No,Cargo,Salvage,5,6555,N/A,N/A,N/A,2xS5,1xS5,4xTBD,1xS6,Marauder Jump Engine (S1)
+REDEEMER,No,Fighter,Gunship,5,24,N/A,N/A,2xS2,1xS3,2xS4,N/A,1xS6,N/A
+RELIANT KORE,Yes,Cargo,Light Cargo,2,30,2xS1,1xS3,1xS1,N/A,N/A,N/A,1xS3,N/A
+RELIANT MAKO,No,Versatile,Reporting,2,13,4xS1,N/A,N/A,1xS1,N/A,N/A,1xS3,N/A
+RELIANT SEN,No,Versatile,Exploration,2,10,4xS1,N/A,N/A,1xS1,N/A,N/A,1xS3,N/A
+RELIANT TANA,No,Versatile,Defense,2,10,4xS1,N/A,N/A,2xS2,N/A,N/A,1xS4,N/A
+RETALIATOR BASE,No,Fighter,Versatile Fighter,6,128,N/A,N/A,N/A,N/A,5xS4,N/A,1xS3,N/A
+RETALIATOR BOMBER,Yes,Bomber,Heavy Bomber,6,128,N/A,N/A,2xS3,N/A,5xS4,N/A,1xS3,N/A
+SABRE,Yes,Fighter,Fighter,1,0,2xS3,2xS3,2xS2,N/A,N/A,N/A,4xTBD,N/A
+SABRE COMET,Yes,Fighter,Fighter,1,0,2xS3,2xS3,2xS2,N/A,N/A,N/A,4xTBD,N/A
+STARFARER,Yes,Cargo,Refuel/Transport,7,3321,N/A,N/A,N/A,2xS5,2xS4 | 1xS5,N/A,2xS3,N/A
+STARFARER GEMINI,No,Cargo,Military Transport,7,2488,1xS3,N/A,N/A,2xS4,2xS3 I 1xS5,N/A,2xS4,N/A
+TERRAPIN,No,Versatile,Exploration,2,0,N/A,N/A,N/A,1xS5,N/A,N/A,1xS2,N/A
+URSA ROVER,No,Vehicle / Snub,Ground Transport,2,4,N/A,N/A,N/A,1xS1,N/A,N/A,TBD,N/A
+VANDUUL SCYTHE,Yes,Fighter,Medium Fighter,1,0,2xS1 I 2xS5,N/A,4xS1 I 3xS2,N/A,N/A,N/A,1xS2,N/A
+VANGUARD HARBINGER,No,Bomber,Bomber,2,0,4xS2 | 1xS5,N/A,3xS2 | 2xS3,N/A,1xS2,N/A,6xS2,N/A
+VANGUARD HOPLITE,Yes,Versatile,Dropship,2,0,4xS2 I 1xS5,N/A,2xS2,N/A,1xS2,N/A,6xS2,N/A
+VANGUARD SENTINAL,No,Fighter,E-Warfare,2,0,4xS2 I 1xS5,N/A,2xS3,N/A,1xS2,N/A,6xS2,N/A
+VANGUARD WARDEN,Yes,Fighter,Long-range fighter,2,0,4xS2 I 1xS5,N/A,2xS2,N/A,1xS2,N/A,6xS2,N/A

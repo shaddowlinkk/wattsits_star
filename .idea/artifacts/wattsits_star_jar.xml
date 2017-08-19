@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wattsits_star:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wattsits_star_jar</output-path>
+    <root id="archive" name="wattsits_star.jar">
+      <element id="module-output" name="wattsits_star" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-5.1.40-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
