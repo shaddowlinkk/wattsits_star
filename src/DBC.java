@@ -12,7 +12,6 @@ public class DBC {
         isConnected = true;
         Class.forName("com.mysql.jdbc.Driver");
         try {
-   ;
             con = DriverManager.getConnection("jdbc:mysql://localhost/star_manager",Username,Password);
         }catch (SQLException e){
             isConnected=false;

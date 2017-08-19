@@ -38,8 +38,6 @@ public class addShip extends JFrame {
     }
 
     private void initComponents() throws SQLException {
-        // JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
-        // Generated using JFormDesigner Evaluation license - mac van pelt
         comboBox1 = new JComboBox(names);
         button1 = new JButton();
 
