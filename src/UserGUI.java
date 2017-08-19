@@ -19,6 +19,11 @@ public class UserGUI extends JFrame {
         conn=connector;
         initComponents();
     }
+
+    /**
+     * This Event uppdates the shipSelect field wich tell the program what ship the user has selected out of thare inventory
+     * @param e ListSelectionEvent
+     */
     private void list1ValueChanged(ListSelectionEvent e) {
         // TODO add your code here
         shipSelect=list1.getSelectedIndex();
@@ -36,8 +41,6 @@ public class UserGUI extends JFrame {
     }
 
     private void initComponents() throws SQLException {
-        // JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
-        // Generated using JFormDesigner Evaluation license - mac van pelt
         label1 = new JLabel();
         label2 = new JLabel();
         scrollPane1 = new JScrollPane();

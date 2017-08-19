@@ -2,6 +2,7 @@ import java.sql.SQLException;
 
 /**
  * Created by nathan on 8/4/2017.
+ *
  */
 public class Driver {
     public Driver() throws ClassNotFoundException, SQLException {
